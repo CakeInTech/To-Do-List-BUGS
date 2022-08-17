@@ -1,4 +1,4 @@
-import { clear, clearAllTask } from './clearcm';
+import { clear, clearAllTask } from './clearcm.js';
 
 const addBtn = document.querySelector('.submit');
 const Input = document.querySelector('.input');
